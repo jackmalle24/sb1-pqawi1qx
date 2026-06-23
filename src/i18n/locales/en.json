@@ -1,0 +1,106 @@
+{
+  "navigation": {
+    "home": "Home",
+    "cabinet": "The Firm",
+    "expertises": "Our Expertise",
+    "team": "Our Team",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "appointment": "Book Appointment"
+  },
+  "home": {
+    "hero": {
+      "title": "Your legal success,",
+      "titleHighlight": "our commitment",
+      "subtitle": "Excellence law firm in Marrakech, we accompany you with rigor, discretion and expertise in all your legal challenges.",
+      "cta": "Book Appointment"
+    },
+    "values": {
+      "excellence": {
+        "title": "Legal Excellence",
+        "description": "Recognized expertise and exceptional results"
+      },
+      "discretion": {
+        "title": "Absolute Discretion",
+        "description": "Confidentiality and professional ethics"
+      },
+      "availability": {
+        "title": "24/7 Responsiveness",
+        "description": "Available 24/7 for emergencies"
+      }
+    },
+    "services": {
+      "title": "Our Areas of Expertise",
+      "subtitle": "A complete range of legal services in Marrakech to meet all your needs",
+      "viewAll": "Discover all our expertise"
+    },
+    "team": {
+      "title": "Committed lawyers in Marrakech",
+      "subtitle": "A team of expert lawyers in Marrakech, trained in the best institutions, serving your legal success.",
+      "cta": "Meet our team"
+    },
+    "contact": {
+      "title": "Need a consultation?",
+      "subtitle": "Contact us now. Emergency service available 24/7.",
+      "appointment": "Book Appointment",
+      "phone": "+212 5 24 43 21 09"
+    }
+  },
+  "cabinet": {
+    "title": "The Firm",
+    "subtitle": "A tradition of legal excellence in the heart of Marrakech",
+    "history": {
+      "title": "Our History",
+      "content1": "Founded in the prestigious city of Marrakech, Cabinet DINOURI has established itself as a reference in legal advice and judicial representation in Morocco.",
+      "content2": "Our professional civil society of lawyers brings together recognized experts, trained in the best national and international institutions, offering a modern and effective approach to law.",
+      "content3": "Located in the heart of the Gueliz district, our team accompanies Moroccan and international clients in their most complex legal challenges, combining technical expertise and understanding of economic issues."
+    },
+    "values": {
+      "title": "Our Core Values",
+      "subtitle": "The principles that guide our daily action",
+      "rigor": {
+        "title": "Rigor",
+        "description": "Precision, methodology and technical excellence in each case. Our rigorous approach guarantees the quality of our services."
+      },
+      "discretion": {
+        "title": "Discretion",
+        "description": "Absolute confidentiality and irreproachable professional ethics. Our clients' trust is our most precious asset."
+      },
+      "results": {
+        "title": "Results",
+        "description": "Results-oriented and winning strategies. Our success is measured by our clients' success and achieving their goals."
+      }
+    },
+    "info": {
+      "title": "Practical Information",
+      "subtitle": "All information to contact us and meet us",
+      "address": "Address & Contact",
+      "hours": "Opening Hours",
+      "emergency": "24/7 Emergency Service",
+      "emergencyDesc": "For legal emergencies, we remain available outside normal business hours."
+    },
+    "location": {
+      "title": "Find Us",
+      "subtitle": "In the heart of Gueliz district in Marrakech"
+    }
+  },
+  "common": {
+    "contactUs": "Contact us",
+    "callNow": "Call now",
+    "emergency24": "Emergency 24/7",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Gueliz, Marrakech",
+    "hours": "Monday - Friday: 09:00-19:00",
+    "languages": "Languages",
+    "specialties": "Specialties"
+  },
+  "footer": {
+    "description": "Your legal success, our commitment. Excellence, rigor and results from Marrakech.",
+    "contact": "Contact",
+    "hours": "Hours",
+    "links": "Useful Links",
+    "emergency": "Emergency 24/7",
+    "copyright": "Professional Civil Society of Lawyers DINOURI. All rights reserved."
+  }
+}

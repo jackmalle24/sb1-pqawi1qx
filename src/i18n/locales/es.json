@@ -1,0 +1,94 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "cabinet": "El Despacho",
+    "expertises": "Nuestras Especialidades",
+    "team": "Nuestro Equipo",
+    "faq": "FAQ",
+    "contact": "Contacto",
+    "appointment": "Solicitar Cita"
+  },
+  "home": {
+    "hero": {
+      "title": "Su éxito legal,",
+      "titleHighlight": "nuestro compromiso",
+      "subtitle": "Despacho de abogados de excelencia en Marrakech, le acompañamos con rigor, discreción y experiencia en todos sus desafíos legales.",
+      "cta": "Solicitar Cita"
+    },
+    "values": {
+      "excellence": {
+        "title": "Excelencia Legal",
+        "description": "Experiencia reconocida y resultados excepcionales"
+      },
+      "discretion": {
+        "title": "Discreción Absoluta",
+        "description": "Confidencialidad y ética profesional"
+      },
+      "availability": {
+        "title": "Disponibilidad 24/7",
+        "description": "Disponibles 24/7 para emergencias"
+      }
+    },
+    "services": {
+      "title": "Nuestras Áreas de Especialización",
+      "subtitle": "Una gama completa de servicios legales en Marrakech para satisfacer todas sus necesidades",
+      "viewAll": "Descubrir todas nuestras especialidades"
+    },
+    "team": {
+      "title": "Abogados comprometidos en Marrakech",
+      "subtitle": "Un equipo de abogados expertos en Marrakech, formados en las mejores instituciones, al servicio de su éxito legal.",
+      "cta": "Conocer nuestro equipo"
+    },
+    "contact": {
+      "title": "¿Necesita una consulta?",
+      "subtitle": "Contáctenos ahora. Servicio de emergencia disponible 24/7.",
+      "appointment": "Solicitar Cita",
+      "phone": "+212 5 24 43 21 09"
+    }
+  },
+  "cabinet": {
+    "title": "El Despacho",
+    "subtitle": "Una tradición de excelencia legal en el corazón de Marrakech",
+    "history": {
+      "title": "Nuestra Historia",
+      "content1": "Fundado en la prestigiosa ciudad de Marrakech, el Despacho DINOURI se ha establecido como una referencia en asesoramiento legal y representación judicial en Marruecos.",
+      "content2": "Nuestra sociedad civil profesional de abogados reúne expertos reconocidos, formados en las mejores instituciones nacionales e internacionales, ofreciendo un enfoque moderno y eficaz del derecho.",
+      "content3": "Ubicado en el corazón del barrio Guéliz, nuestro equipo acompaña a clientes marroquíes e internacionales en sus desafíos legales más complejos, combinando experiencia técnica y comprensión de los problemas económicos."
+    },
+    "values": {
+      "title": "Nuestros Valores Fundamentales",
+      "subtitle": "Los principios que guían nuestra acción diaria",
+      "rigor": {
+        "title": "Rigor",
+        "description": "Precisión, metodología y excelencia técnica en cada caso. Nuestro enfoque riguroso garantiza la calidad de nuestros servicios."
+      },
+      "discretion": {
+        "title": "Discreción",
+        "description": "Confidencialidad absoluta y ética profesional irreprochable. La confianza de nuestros clientes es nuestro bien más preciado."
+      },
+      "results": {
+        "title": "Resultados",
+        "description": "Orientación a resultados y estrategias ganadoras. Nuestro éxito se mide por el éxito de nuestros clientes y el logro de sus objetivos."
+      }
+    }
+  },
+  "common": {
+    "contactUs": "Contáctenos",
+    "callNow": "Llamar ahora",
+    "emergency24": "Emergencias 24/7",
+    "phone": "Teléfono",
+    "email": "Email",
+    "address": "Guéliz, Marrakech",
+    "hours": "Lunes - Viernes: 09:00-19:00",
+    "languages": "Idiomas",
+    "specialties": "Especialidades"
+  },
+  "footer": {
+    "description": "Su éxito legal, nuestro compromiso. Excelencia, rigor y resultados desde Marrakech.",
+    "contact": "Contacto",
+    "hours": "Horarios",
+    "links": "Enlaces Útiles",
+    "emergency": "Emergencias 24/7",
+    "copyright": "Sociedad Civil Profesional de Abogados DINOURI. Todos los derechos reservados."
+  }
+}

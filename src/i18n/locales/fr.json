@@ -1,0 +1,106 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "cabinet": "Le Cabinet",
+    "expertises": "Nos Expertises",
+    "team": "Notre Équipe",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "appointment": "Prendre rendez-vous"
+  },
+  "home": {
+    "hero": {
+      "title": "Votre réussite juridique,",
+      "titleHighlight": "notre engagement",
+      "subtitle": "Cabinet d'avocats d'excellence à Marrakech, nous vous accompagnons avec rigueur, discrétion et expertise dans tous vos défis juridiques.",
+      "cta": "Prendre rendez-vous"
+    },
+    "values": {
+      "excellence": {
+        "title": "Excellence Juridique",
+        "description": "Expertise reconnue et résultats exceptionnels"
+      },
+      "discretion": {
+        "title": "Discrétion Absolue",
+        "description": "Confidentialité et éthique professionnelle"
+      },
+      "availability": {
+        "title": "Réactivité 24/7",
+        "description": "Disponibilité 24/7 pour les urgences"
+      }
+    },
+    "services": {
+      "title": "Nos Domaines d'Expertise",
+      "subtitle": "Une gamme complète de services juridiques à Marrakech pour répondre à tous vos besoins",
+      "viewAll": "Découvrir toutes nos expertises"
+    },
+    "team": {
+      "title": "Des avocats engagés à Marrakech",
+      "subtitle": "Une équipe d'avocats experts à Marrakech, formés dans les meilleures institutions, au service de votre réussite juridique.",
+      "cta": "Rencontrer notre équipe"
+    },
+    "contact": {
+      "title": "Besoin d'une consultation ?",
+      "subtitle": "Contactez-nous dès maintenant. Service d'urgence disponible 24h/24, 7j/7.",
+      "appointment": "Prendre rendez-vous",
+      "phone": "+212 5 24 43 21 09"
+    }
+  },
+  "cabinet": {
+    "title": "Le Cabinet",
+    "subtitle": "Une tradition d'excellence juridique au cœur de Marrakech",
+    "history": {
+      "title": "Notre Histoire",
+      "content1": "Fondé dans la prestigieuse ville de Marrakech, le Cabinet DINOURI s'est imposé comme une référence en matière de conseil juridique et de représentation judiciaire au Maroc.",
+      "content2": "Notre société civile professionnelle d'avocats réunit des experts reconnus, formés dans les meilleures institutions nationales et internationales, offrant une approche moderne et efficace du droit.",
+      "content3": "Située au cœur du quartier Guéliz, notre équipe accompagne clients marocains et internationaux dans leurs défis juridiques les plus complexes, alliant expertise technique et compréhension des enjeux économiques."
+    },
+    "values": {
+      "title": "Nos Valeurs Fondamentales",
+      "subtitle": "Les principes qui guident notre action quotidienne",
+      "rigor": {
+        "title": "Rigueur",
+        "description": "Précision, méthodologie et excellence technique dans chaque dossier. Notre approche rigoureuse garantit la qualité de nos prestations."
+      },
+      "discretion": {
+        "title": "Discrétion",
+        "description": "Confidentialité absolue et éthique professionnelle irréprochable. La confiance de nos clients est notre bien le plus précieux."
+      },
+      "results": {
+        "title": "Résultats",
+        "description": "Orientation résultats et stratégies gagnantes. Notre succès se mesure à la réussite de nos clients et à l'atteinte de leurs objectifs."
+      }
+    },
+    "info": {
+      "title": "Informations Pratiques",
+      "subtitle": "Toutes les informations pour nous contacter et nous rencontrer",
+      "address": "Adresse & Contact",
+      "hours": "Horaires d'Ouverture",
+      "emergency": "Service d'urgence 24h/24, 7j/7",
+      "emergencyDesc": "Pour les urgences juridiques, nous restons disponibles en dehors des heures d'ouverture."
+    },
+    "location": {
+      "title": "Nous Localiser",
+      "subtitle": "Au cœur du quartier Guéliz à Marrakech"
+    }
+  },
+  "common": {
+    "contactUs": "Nous contacter",
+    "callNow": "Appeler maintenant",
+    "emergency24": "Urgences 24/7",
+    "phone": "Téléphone",
+    "email": "Email",
+    "address": "Guéliz, Marrakech",
+    "hours": "Lundi - Vendredi: 09:00-19:00",
+    "languages": "Langues",
+    "specialties": "Spécialités"
+  },
+  "footer": {
+    "description": "Votre réussite juridique, notre engagement. Excellence, rigueur et résultats depuis Marrakech.",
+    "contact": "Contact",
+    "hours": "Horaires",
+    "links": "Liens Utiles",
+    "emergency": "Urgences 24/7",
+    "copyright": "Société Civile Professionnelle d'Avocats DINOURI. Tous droits réservés."
+  }
+}
