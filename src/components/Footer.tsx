@@ -82,7 +82,7 @@ const Footer: React.FC = () => {
                 Mentions Légales
               </Link>
               <a 
-                href="https://www.google.com/maps/place/Cabinet+DINOURI/@31.6295,-8.0076,17z" 
+                href="https://www.google.com/maps/place/Ma%C3%AEtre+Brahim+Dinouri/@31.6375635,-8.0111471,543m/data=!3m2!1e3!4b1!4m6!3m5!1s0xdafef4dac411d27:0x48104988133cb269!8m2!3d31.6375635!4d-8.0111471!16s%2Fg%2F11yzsdrlgq!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDYyMi4wIKXMDSoASAFQAw%3D%3D" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="block text-gray-300 hover:text-gold transition-colors"
